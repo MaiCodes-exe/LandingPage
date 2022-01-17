@@ -22,11 +22,6 @@ export default function CardContainer() {
 						<Card></Card>
 					</Col>
 				</Row>
-				<Row>
-					<Col sm>sm=true</Col>
-					<Col sm>sm=true</Col>
-					<Col sm>sm=true</Col>
-				</Row>
 			</Container>
 		</>
 	);

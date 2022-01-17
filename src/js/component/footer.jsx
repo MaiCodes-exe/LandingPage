@@ -4,11 +4,8 @@ import { Container } from "react-bootstrap";
 export default function Footer() {
 	return (
 		<>
-			<Container className="bg-dark" expand="lg">
-				<p>
-					Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-					Incidunt, illo!
-				</p>
+			<Container className="bg-dark text-center text-white">
+				<p>Copyright Your Website 2022</p>
 			</Container>
 		</>
 	);

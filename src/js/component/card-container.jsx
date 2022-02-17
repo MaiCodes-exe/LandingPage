@@ -8,7 +8,7 @@ export default function CardContainer() {
 	return (
 		<>
 			<Container>
-				<Row>
+				<Row col-12>
 					<Col sm={12} md={3}>
 						<Card></Card>
 					</Col>
